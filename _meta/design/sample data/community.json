@@ -1,0 +1,15 @@
+{
+    "name": "DSC Kocaeli",
+    "description": "DSC Kocaeli, Google geliştirici teknolojilerine ilgi duyan öğrenciler için üniversitemizde kurulmuş olan bir topluluktur. Geliştirici olarak büyümeye ilgi duyan tüm lisans veya lisansüstü programlardan öğrenciler kabul edilmektedir. Hedeflerimiz ise herkes için faydalı olup insanlara güzel şeyler kazandırabilmek ve farklı ilgi alanları olan insanlara bu alanlarda hitap edebilmektir.",
+    "banner": "https://i.hizliresim.com/Z4bdYW.png",
+    "leader": {
+      "name": "Rabia Canpolat",
+      "photo": "https://i.hizliresim.com/yA2KHn.jpg"
+    },
+    "links": {
+      "instagram": "https://www.instagram.com/koudsc/",
+      "twitter": "https://twitter.com/KocaeliDsc",
+      "youtube": "https://www.youtube.com/channel/UC82uLWP2Wxl69Vunwy1LkVQ",
+      "participation": "https://forms.gle/PudfZK4V2ck5NsMX7"
+    }
+}

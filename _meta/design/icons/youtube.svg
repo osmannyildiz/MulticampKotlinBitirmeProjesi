@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="1024" height="1024" version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <clipPath id="clipPath5102">
+   <path d="m0 192h192v-192h-192z"/>
+  </clipPath>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(0,691.7)">
+  <g transform="matrix(5.7955 0 0 -5.7955 -44.364 376.66)">
+   <g clip-path="url(#clipPath5102)">
+    <g transform="translate(78 69.831)">
+     <path d="m0 0v52.338l46-26.17zm102.32 68.806c-2.024 7.622-7.988 13.624-15.56 15.661-13.725 3.702-68.762 3.702-68.762 3.702s-55.037 0-68.762-3.702c-7.572-2.037-13.536-8.039-15.56-15.661-3.678-13.814-3.678-42.637-3.678-42.637s0-28.822 3.678-42.637c2.024-7.622 7.988-13.624 15.56-15.662 13.725-3.701 68.762-3.701 68.762-3.701s55.037 0 68.762 3.701c7.572 2.038 13.536 8.04 15.56 15.662 3.678 13.815 3.678 42.637 3.678 42.637s0 28.823-3.678 42.637" fill="#fff"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
