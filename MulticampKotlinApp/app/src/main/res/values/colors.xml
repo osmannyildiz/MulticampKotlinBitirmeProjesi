@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary">#29566E</color>
+    <color name="colorPrimaryDark">#072F41</color>
+    <color name="colorAccent">#00C74E</color>
+
+    <color name="colorHighlight">#B8EFCB</color>
+    <color name="colorTwitter">#1DA1F2</color>
+    <color name="colorInstagram">#D30C8E</color>
+    <color name="colorYoutube">#FF0000</color>
 </resources>
