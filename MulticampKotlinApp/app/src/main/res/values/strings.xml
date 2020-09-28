@@ -1,12 +1,10 @@
 <resources>
     <string name="app_name">Multicamp Kotlin Bitirme Projesi</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-
 
     <string name="sample_name">DSC Kocaeli</string>
     <string name="sample_description">DSC Kocaeli, Google geliştirici teknolojilerine ilgi duyan öğrenciler için üniversitemizde kurulmuş olan bir topluluktur. Geliştirici olarak büyümeye ilgi duyan tüm lisans veya lisansüstü programlardan öğrenciler kabul edilmektedir. Hedeflerimiz ise herkes için faydalı olup insanlara güzel şeyler kazandırabilmek ve farklı ilgi alanları olan insanlara bu alanlarda hitap edebilmektir.</string>
     <string name="sample_leader_name">Rabia Canpolat</string>
+
     <string name="str_list_item">Liste ögesi</string>
     <string name="str_community_banner">Topluluk banner\'ı</string>
     <string name="str_leader_">Lider:</string>
