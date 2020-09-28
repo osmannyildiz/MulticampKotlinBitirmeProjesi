@@ -77,8 +77,8 @@
                 android:id="@+id/textView2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textAppearance="@style/TextAppearance.MaterialComponents.Caption"
-                tools:text="@string/str_leader_" />
+                android:text="@string/str_leader_"
+                android:textAppearance="@style/TextAppearance.MaterialComponents.Caption" />
 
             <TextView
                 android:id="@+id/textViewLeaderName"
