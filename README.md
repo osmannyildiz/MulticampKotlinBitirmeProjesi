@@ -5,9 +5,8 @@ Türkiye'deki Google Developers toplulukları tarafından Ağustos-Eylül 2020'd
 
 
 ## Ekran Görüntüleri
-Liste Ekranı | Detay Ekranı
-:-----------:|:-----------:
-<img src="https://raw.githubusercontent.com/osmannyildiz/multicamp-kotlin-bitirme-projesi/master/img/screenshots/screenshot1.jpg" alt="Ekran görüntüsü 1: Liste Ekranı" height="480"> | <img src="https://raw.githubusercontent.com/osmannyildiz/multicamp-kotlin-bitirme-projesi/master/img/screenshots/screenshot2.jpg" alt="Ekran görüntüsü 2: Detay Ekranı" height="480">
+<img src="https://raw.githubusercontent.com/osmannyildiz/multicamp-kotlin-bitirme-projesi/master/img/screenshots/screenshot1.jpg" alt="Ekran görüntüsü 1: Liste Ekranı" height="480">
+<img src="https://raw.githubusercontent.com/osmannyildiz/multicamp-kotlin-bitirme-projesi/master/img/screenshots/screenshot2.jpg" alt="Ekran görüntüsü 2: Detay Ekranı" height="480">
 
 
 ## Developer Multicamp'i takip edin, *muhteşem* eğitimleri kaçırmayın!
