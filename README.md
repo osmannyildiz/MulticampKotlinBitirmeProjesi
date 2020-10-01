@@ -14,3 +14,7 @@ Türkiye'deki Google Developers toplulukları tarafından Ağustos-Eylül 2020'd
 - [Telegram](https://t.me/developermulticamp)
 - [Discord](https://discord.gg/FXknEkP)
 
+
+## Bonus: Alternatif Tasarım
+<img src="https://raw.githubusercontent.com/osmannyildiz/multicamp-kotlin-bitirme-projesi/master/img/screenshots/alternative_screenshot1.jpg" alt="Ekran görüntüsü 1: Liste Ekranı" height="480"> <img src="https://raw.githubusercontent.com/osmannyildiz/multicamp-kotlin-bitirme-projesi/master/img/screenshots/alternative_screenshot2.jpg" alt="Ekran görüntüsü 2: Detay Ekranı" height="480">
+
